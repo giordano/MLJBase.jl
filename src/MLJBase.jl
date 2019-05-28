@@ -43,6 +43,7 @@ import Distributions: pdf, mode
 using CategoricalArrays
 import CategoricalArrays
 import CSV
+using DataFrames
 
 # to be extended:
 import StatsBase: fit, predict, fit!
